@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:10 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Rules for Renegades</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I am in San Francisco for Jeff and Kane&#x2019;s conference, Mastering Wealth Through Relationships, aka &#x201C;Release Your Inner Rockstar&#x201D;. Kane has been mentoring me with my ongoing projects in the music and game industry and he set me up for a little meeting today with Christine Comaford, the badass internationally renowned business woman who&#x2019;s early accomplishments include making 10 million in tech without even graduating from high school. To get ready for our meeting I read her book,&lt;i&gt; Rules for Renegads&lt;/i&gt;, which I totally recommend. She gives away some reeeeaaally useful business planning documents here on this website:&#xD;&#xD;&lt;a href="http://rulesforrenegades.com/resources.html"&gt;http://rulesforrenegades.com/resources.html&lt;/a&gt;&#xD;&#xD;I just got out of our meeting and I am so honored to have met this inspiring woman. She gave me some great advice about my game that I will definitely be implementing. Now, back to Jeff and Kane&#x2019;s conference... I&#x2019;ll let you know how it goes.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 4, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Rules_for_Renegades_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

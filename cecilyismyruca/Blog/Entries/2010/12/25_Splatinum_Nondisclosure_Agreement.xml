@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:14 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Splatinum Nondisclosure Agreement&#xD;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Merry Christmas! &#xD;&#xD;I had to sign an NDA for my internship with Splatinum. Some of the details I can no longer disclose without consent include: &#xD;&#xD;-Who they have sex with&#xD;-Technology&#xD;-Coding&#xD;-Concepts in general&#xD;-Songs&#xD;-Sample sources&#xD;-Costumes&#xD;-Costume sources&#xD;-Kinks, fetishes, and fantasies&#xD;-Familial relationships&#xD;-Family recipes&#xD;-Art&#xD;-Things they say when they are drunk&#xD;-Crying&#xD;&#xD;This is going to be awesome. I will share what I can.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 25, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

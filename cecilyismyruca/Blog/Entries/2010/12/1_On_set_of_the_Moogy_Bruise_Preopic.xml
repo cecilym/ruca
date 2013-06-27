@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:09 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>On set of the Moogy Bruise Preopic</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Damn, it feels good to be a gangster.&#xD;&#xD;The above shot is from the set of my new short film, aka my living room. I&#x2019;m calling the movie a Moogy Bruise Preopic because it&#x2019;s a biopic about Moogy that tells his pre-op story. I love living with Alex and Andrew. Thanks for encouraging me, gentlemen. &#xD;&#xD;&lt;a href="http://www.dubstep.fm/"&gt;http://www.dubstep.fm/&lt;/a&gt;&#xD;&#xD;&lt;a href="http://www.audiocodone.com/"&gt;http://www.audiocodone.com/&lt;/a&gt;&#xD;&#xD;&lt;a href="http://splatinum.bandcamp.com/"&gt;http://splatinum.bandcamp.com/&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, December 1, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_On_set_of_the_Moogy_Bruise_Preopic_files/shapeimage_1.png" left="0px" top="0px" width="507px" height="285px"/>
+</content>

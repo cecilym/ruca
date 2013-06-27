@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:01 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The Sleepness&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Recharging Batteries</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today has been a struggle against inertia just to get up and get stuff done. To everyone who emailed, called, texted, or was otherwise expecting to hear from me, I got you. It&#x2019;s just gonna be a minute. I can&#x2019;t believe how much has happened since Decibel. Image above was taken on the last night at Neumos. Now that I think about it, I&#x2019;ve been going hard since then. Really hard haha. No wonder my mindbody is demanding a day off. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, October 7, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Recharging_Batteries_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:02 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;urallin COZMIC DANGER&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Another successful session</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Last night I had a blast recording for Cozmic Danger. We also laid down some sexy tracks for Sex Copter to use. Nathan and I both are into the idea of processing the shit out of the vocals to give them a Cozmic vibe. I can&#x2019;t wait to hear how they sound. We recorded in the basement (soon to be studio) of their new place, which is really legit. I especially like the wood paneling on the walls. Combined with the black light, it gives the space a sexy funky retro feel. I think we should make a vid together soon any ideas? &lt;a href="http://www.myspace.com/cozmiccollisions"&gt;www.myspace.com/cozmiccollisions&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, October 10, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Another_successful_session_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

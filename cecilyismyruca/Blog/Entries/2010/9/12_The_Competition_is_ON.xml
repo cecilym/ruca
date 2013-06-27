@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:36:59 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Competition is ON</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I am entering RUCA into several indie game competitions. That means all of the music in my game has to be legit in terms of copyrights and what have you. Yesterday I went to Innerflight&#x2019;s Sunset Seattle party and met lots of producers who were down to contribute their songs to the game. I can&#x2019;t wait to see how these upgrades go. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, September 12, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_The_Competition_is_ON_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

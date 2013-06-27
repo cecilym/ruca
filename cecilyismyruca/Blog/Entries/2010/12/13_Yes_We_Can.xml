@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:11 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Movie Makin Inspiration&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Yes We Can</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;m really inspired by the young creator of &lt;a href="http://sizzleit.com"&gt;sizzleit.com&lt;/a&gt; who I read about in &lt;a href="http://finance.yahoo.com/news/No-Jobs-Young-Graduates-Make-nytimes-217264902.html?x=0"&gt;this article&lt;/a&gt;. To some it up for you,&#xD;&#xD;&#x201C;FIVE years ago, after graduating from New York University with a film degree and thousands of dollars in student loans, Scott Gerber moved back in with his parents on Staten Island. He then took out more loans to start a new-media and technology company, but he didn&#x2019;t have a clear market in mind; the company went belly up in 2006.&#xD;&#x201C;It made me feel demoralized and humiliated,&#x201D; he says. &#x201C;I wondered if this was really what post-collegiate life was supposed to be like. Did I do something wrong? The answers weren&#x2019;t apparent to me.&#x201D;&#xD;Still in debt, Mr. Gerber considered his career options. His mother kept encouraging him to get a &#x201C;real&#x201D; job, the kind that comes with an office and a boss. But, using the last $700 in his bank account, he decided to start another company instead.&#xD;With the new company, called &lt;a href="http://us.lrd.yahoo.com/SIG=10t1gipoc/**http%3A//www.sizzleit.com/"&gt;Sizzle It&lt;/a&gt;, Mr. Gerber vowed to find a niche, reduce overhead and generally be more frugal. The company, which specializes in short promotional videos, was profitable the first year, he says.&#xD;Mr. Gerber, now 27, isn&#x2019;t a millionaire, but he&#x2019;s paid off his loans and doesn&#x2019;t have to live with his parents (he rents an apartment in Hoboken, N.J.). And he thinks his experience can help other young people who face a daunting unemployment rate.&#xD;In October, Mr. Gerber started &lt;a href="http://us.lrd.yahoo.com/SIG=11dqsqqp9/**http%3A//www.nevergetarealjob.com/council/"&gt;the Young Entrepreneur Council&lt;/a&gt; &#x201C;to create a shift from a r&#xE9;sum&#xE9;-driven society to one where people create their own jobs,&#x201D; he says. &#x201C;The jobs are going to come from the entrepreneurial level.&#x201D; ...&#xD;&#xD;I just emailed them to ask how they think I can find music artists who want stop motion promotional videos like the one above that I just made for Moogy Bruise, aka Andrew Luck from Splatinum. I&#x2019;ll let you know what they say!! &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, December 13, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

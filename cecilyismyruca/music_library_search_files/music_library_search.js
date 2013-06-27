@@ -1,0 +1,7 @@
+// Created by iWeb 3.0.4 local-build-20121129
+
+setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
+{return false;}
+function onPageLoad()
+{loadMozillaCSS('music_library_search_files/music_library_searchMoz.css')
+fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}

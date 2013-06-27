@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:14 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jan 14 we&#x2019;re all fucked</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Amy (aka Amalala on soundcloud)  just came over to plan her debut DJ set selecting as Diggaboo. She&#x2019;s doing the set to open the upcoming Bil Bless show with roomy and half of Splatinum Andrew Luck. &#xD;&#xD;You heard it here first, people: Jan 14 Bil Bless, Andrew Luck feat selector Diggaboo at the Loft in Sodo (Seattle)&#xD;&#xD;Listening to them plan the set now and daaaayum... .&#xD;Their goal is to make people have sex on the dance floor. From the sound of it, we&#x2019;re all fucked =)&#xD;&#xD;&lt;a href="http://soundcloud.com/amalala"&gt;Check out Amy&#x2019;s soundcloud here&lt;/a&gt;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, December 29, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Jan_14_were_all_fucked_files/shapeimage_1.png" left="0px" top="0px" width="243px" height="324px"/>
+</content>

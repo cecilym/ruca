@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:03 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Lessons Learned&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Meeting Adjourned </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I want to write a FAT JUICY  long run down right now but I don&#x2019;t have much time because I&#x2019;m about to go to Trinity for free dubstep Thursdays. Yesterday I had two photo shoots. One was planned weeks in advance with a paid professional photographer at a gorgeous luxurious location. The other was planned last minute with Cozmic Danger and their roommates in their bachelor abode. Guess which photos I adore?&#xD;&#xD;I&#x2019;ve been looking for some guiding stars. There were so many good things flying into my life at one time I was spinning wheels for a minute. &#xD;&#xD;Off to dubstep. I hope you know what that means. If not I encourage you to check it out. Details and photos to come. &#xD;&#xD;For now, here is a mysterious parting gift&#xD;&#xD;http://www.livestrong.com/article/14699-improving-assertive-behavior/</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, October 14, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Meeting_Adjourned_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

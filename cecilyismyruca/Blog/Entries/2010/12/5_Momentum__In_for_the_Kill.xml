@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:10 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Momentum: In for the Kill</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It hadn&#x2019;t even been 24 hours since Jeff and Kane&#x2019;s seminar ended and already the dreams, visions, and goals I worked on over the weekend began to manifest. One thing I clarified this weekend is that I would like to teach more dance classes per week because I love getting paid to exercise while being held accountable for showing up to the class. Yesterday I received two beautiful phone calls while I was at the airport about to fly back to Seattle. The first phone call was from a fitness coordinator at Vision Quest Fitness downtown asking me if I could teach two more dance classes. The second phone call was from Bruce, an extremely talented drummer I know asking if I was interested in being lead singer for a new band. You bet I am. I&#x2019;m meeting with the other musicians on Friday to see if we click. &#xD;&#xD;Above photo was taken on Thanksgiving by my aunt, Magali, a photographer who lives in Ashland, OR. Love it! Thanks, Magali!&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, December 5, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Momentum__In_for_the_Kill_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

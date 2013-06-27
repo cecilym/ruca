@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:36:59 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Debugged&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Part One Debugging Complete</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I can&#x2019;t believe how many errors I found, and that was just part one. Tedious and tiresome work, debugging is. It would be a lot easier if I knew how to use Dreamweaver... At least the game should run more smoothly now and look better on various display settings. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, September 14, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Part_One_Debugging_Complete_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

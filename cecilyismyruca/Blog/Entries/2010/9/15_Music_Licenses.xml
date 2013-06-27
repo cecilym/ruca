@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:00 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Licenses, check.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Music Licenses</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Harry Fox Publishing just approved requests for mechanical licenses to stream my covers of Doin&#x2019; Time and Santeria on RUCA. Pay dues, I guess... but the red tape ahead is annoying. I hope the world of copyright catches up to the universe of music technology soon. Thank you, Bradley.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, September 15, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Music_Licenses_files/shapeimage_1.png" left="0px" top="0px" width="232px" height="300px"/>
+</content>

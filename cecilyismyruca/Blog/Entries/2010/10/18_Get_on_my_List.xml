@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:05 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Promoting Music&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Get on my List</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Friday is the big Lovers Playhous party at Trinity I am promoting. As part of my compensation for promoting the party I got to choose a really nice Halloween costume from Lovers, an adult store sponsoring the event. I am going to be Snow White : ) Now my job is to get as many people as possible on my guest list. I&#x2019;m supposed to be getting my costume soon. My plan is to wear it downtown, hand out party flyers with my card attached, and write down peoples&#x2019; names on the street so I can add them to my list right then. Getting on my list means you get in free so it shouldn&#x2019;t be too hard... I&#x2019;ll let you know how that goes. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, October 18, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Get_on_my_List_files/shapeimage_1.png" left="0px" top="0px" width="396px" height="210px"/>
+</content>

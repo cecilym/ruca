@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:08 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The battle for Miami&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Ultra vs. WMC</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Andrew Kolody shared this with me and I finally understand the beef going on between Ultra Music Festival and the Winter Music Conference. I am going to be in Miami for the WMC this coming year, working as a brand ambassador for our sponsor. After reading this article, I am glad to be supporting WMC on this one.&#xD;&#xD; &lt;a href="http://www.houseplanet.dj/index.php/November-2010/Louis-Puig-Club-Space-Miami-owner-writes-about-WMC-2011-drama.html"&gt;http://www.houseplanet.dj/index.php/November-2010/Louis-Puig-Club-Space-Miami-owner-writes-about-WMC-2011-drama.html&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, November 22, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Ultra_vs._WMC_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="267px"/>
+</content>

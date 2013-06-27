@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="11C23437-C669-45D8-B3C6-A9C2EE5B7A79">
+  <lastEdited clientType="local-build-20120925" date="2012-09-25 23:37:12 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Ruca&#x2019;s &lt;/b&gt;&lt;b&gt;&lt;a href="perma://BLPageReference/DF0F06DB-2726-4B69-B75A-9F3C3BD32209"&gt;Blog&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>$50,000 Women in Games Scholarship</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I found out about a thick, juicy scholarship for women in games from the Women In Games facebook page. Apparently it&#x2019;s the first scholarship of its kind. Thank you, thank you, thank you to the Vancouver film school and all of the sponsors who made the scholarship possible. Even if I don&#x2019;t win, I get teary thinking of the opportunities I want to create for other girls someday. &lt;a href="http://www.gamedesignexpo.com/2010/12/announcing-100000-in-scholarships/"&gt;Scholarship info here.&lt;/a&gt;&#xD;&#xD;Recommended listening: &#xD;Nicki Minaj, &#x201C;I&#x2019;m the Best&#x201D; from Pink Friday&#xD;&#xD;&#x201C;I ain't gotta get a plaque I ain't gotta get awards&#xD;I just walk up out the door&#xD;All the girls will applaud All the girls will commend&#xD;As long as they understand&#xD;That I'm fighting for the girls never thought they can win&#xD;Cause before they could begin you told them it was the end&#xD;But I am here to reverse the curse that they live in&#xD;Got two bones to pick ima only choose one&#xD;You might get addressed on the second album&#xD;Which means you can breathe till I mothafucken say so&#xD;To all my bad bitches I could see your halo.&#x201D;&#xD;&#xD;Feel me? Thanks, Nicki. Keep fightin.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, December 18, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_$50,000_Women_in_Games_Scholarship_files/shapeimage_1.png" left="0px" top="0px" width="222px" height="297px"/>
+</content>
